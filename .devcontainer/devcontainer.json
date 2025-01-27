@@ -1,0 +1,10 @@
+{
+    "name": "My Rust Project",
+    "image": "mcr.microsoft.com/vscode/devcontainers/rust:latest",
+    "customizations": {
+      "vscode": {
+        "settings": {},
+        "extensions": ["rust-lang.rust-analyzer"]
+      }
+    }
+  }
